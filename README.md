@@ -5,7 +5,7 @@
 ![]()
 # About me 🌠
 
-I'm 18 years old, I live in web development. I like solving problems related to applications.
+I'm 18 years old, I'm passionate about web developmen. I like solving problems related to applications.
 
 I'll never stop developing! below you can see my skills and stats. 👩‍🏫
 
