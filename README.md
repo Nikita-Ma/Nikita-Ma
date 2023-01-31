@@ -4,5 +4,5 @@
 
 &nbsp;<a href="https://github.com/Nikita-Ma/fullaboutme" target="_blank">My skills</a>
 
-&nbsp;Contact: <a href="https://t.me/ninikin" target="_blank"> Telegram</a> | <a href="mailto:nikitama1hr@gmail.com" target="_blank">Mail</a>
+&nbsp;Contact: <a href="https://t.me/jsnikm" target="_blank"> Telegram</a> | <a href="mailto:nikitama1hr@gmail.com" target="_blank">Mail</a>
 
