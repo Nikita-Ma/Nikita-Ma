@@ -1,6 +1,6 @@
 <a href="https://github.com/Nikita-Ma?tab=repositories"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Nikita-Ma&show_icons=true&theme=dark" alt="GitHub stats"></img></a>
 
-&nbsp;Languages: JavaScript, TypeScript, Java
+&nbsp;Languages: JavaScript, TypeScript, Java, Go
 
 &nbsp;<a href="https://github.com/Nikita-Ma/fullaboutme" target="_blank">My skills</a>
 
