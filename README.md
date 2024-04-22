@@ -1,6 +1,6 @@
 <a href="https://github.com/Nikita-Ma?tab=repositories"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Nikita-Ma&show_icons=true&theme=dark" alt="GitHub stats"></img></a>
-[<a href="https://github.com/Nikita-Ma?tab=repositories"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Nikita-Ma&show_icons=true&theme=dark" alt="GitHub stats"></img></a>
-](https://www.codewars.com/users/Nikita-Ma/badges/large)
+<a href="https://www.codewars.com/users/Nikita-Ma/badges/large"><img align="left" src="https://www.codewars.com/users/Nikita-Ma/badges/large" alt="GitHub stats"></img></a>
+
 
 &nbsp;Languages: JavaScript, TypeScript, Java, Go
 
